@@ -1,0 +1,8 @@
+.env
+terraform/*.json
+terraform/.terraform/
+terraform/terraform.tfstate*
+__pycache__/
+*.pyc
+.DS_Store
+*.zip
