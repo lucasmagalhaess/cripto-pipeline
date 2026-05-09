@@ -6,3 +6,6 @@ __pycache__/
 *.pyc
 .DS_Store
 *.zip
+terraform/.terraform/
+terraform/terraform.tfstate*
+terraform/*.json
