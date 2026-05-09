@@ -3,6 +3,8 @@
 Pipeline de dados de criptomoedas usando Cloud Functions, Airflow e BigQuery — arquitetura idêntica à utilizada em times de engenharia de dados de fintechs.
 
 ## Arquitetura
+
+![Arquitetura do Pipeline](docs/arquitetura_cripto.png)
 ## Por que esse projeto é diferente
 
 Nos projelines tradicionais, o processamento roda localmente em Docker com Spark e MinIO. Nesse projeto toda a lógica roda no GCP:
